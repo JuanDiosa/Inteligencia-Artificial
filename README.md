@@ -7,14 +7,14 @@ En él se documentan los avances, desarrollos y resultados obtenidos durante el 
 
 En este video se muestra el avance actual del proyecto, el preprocesamiento de datos realizado y las principales dificultades encontradas durante el desarrollo.
 
-[![Ver video en YouTube](https://img.youtube.com/vi/xdek2mKAVfo.jpg)](https://youtu.be/xdek2mKAVfo)
+[![Ver video en YouTube](https://img.youtube.com/vi/xdek2mKAVfo/0.jpg)](https://youtu.be/xdek2mKAVfo)
 
 ## ENTREGA FINAL
 ## Video explicativo de la entrega final del proyecto 
 
 En este video se presenta la implementación definitiva del modelo predictivo desarrollado para la clasificación del rendimiento en las pruebas Saber Pro.
 
-[![Ver video en YouTube](https://img.youtube.com/vi/bdd5DdqS_W8/maxresdefault/0.jpg)](https://youtu.be/bdd5DdqS_W8)
+[![Ver video en YouTube](https://img.youtube.com/vi/bdd5DdqS_W8/maxresdefault.jpg)](https://youtu.be/bdd5DdqS_W8)
 
 
 ## Integrantes
