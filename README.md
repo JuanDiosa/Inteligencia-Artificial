@@ -14,7 +14,7 @@ En este video se muestra el avance actual del proyecto, el preprocesamiento de d
 
 En este video se presenta la implementación definitiva del modelo predictivo desarrollado para la clasificación del rendimiento en las pruebas Saber Pro.
 
-[![Ver video en YouTube](https://img.youtube.com/vi/bdd5DdqS_W8/maxresdefault.jpg)](https://youtu.be/bdd5DdqS_W8)
+[![Ver video en YouTube](https://img.youtube.com/vi/bdd5DdqS_W8/maxresdefault/0.jpg)](https://youtu.be/bdd5DdqS_W8)
 
 
 ## Integrantes
