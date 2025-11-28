@@ -7,7 +7,7 @@ En él se documentan los avances, desarrollos y resultados obtenidos durante el 
 
 En este video se muestra el avance actual del proyecto, el preprocesamiento de datos realizado y las principales dificultades encontradas durante el desarrollo.
 
-[![Ver video en YouTube](https://img.youtube.com/vi/xdek2mKAVfo/0.jpg)](https://youtu.be/xdek2mKAVfo)
+[![Ver video en YouTube](https://img.youtube.com/vi/xdek2mKAVfo.jpg)](https://youtu.be/xdek2mKAVfo)
 
 ## ENTREGA FINAL
 ## Video explicativo de la entrega final del proyecto 
